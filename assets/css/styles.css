@@ -226,11 +226,10 @@ body.dark-theme {
   content: "";
   position: absolute;
   bottom: -0.75rem;
-  left: 45%;
-  width: 5px;
-  height: 5px;
-  background-color: var(--title-color);
-  border-radius: 50%;
+  left: 0%;
+  width: 45px;
+  height: 3px;
+  background-color: var(--first-color);
 }
 
 /* change background header */
